@@ -1,4 +1,7 @@
-﻿<!DOCTYPE html>
+﻿<%@ page language="java" contentType="text/html; charset=utf-8"
+         pageEncoding="utf-8"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -6,8 +9,8 @@
 <meta name="keywords" content="后台登陆页面模板,后台登录界面html,后台登录模板,后台登录页面html,后台管理系统后台登录模板">
 <meta name="description" content="cssmoban提供后台管理系统登录界面html模板学习和下载">
 <meta name="viewport" content="width=device-width">
-<link href="public/css/base.css" rel="stylesheet" type="text/css">
-<link href="public/css/login.css" rel="stylesheet" type="text/css">
+<link href="static/public/css/base.css" rel="stylesheet" type="text/css">
+<link href="static/public/css/login.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 
@@ -29,8 +32,8 @@
     </form>
 </div>
 <script>var basedir='public/ui/';</script>
-<script src="public/ui/do.js"></script>
-<script src="public/ui/config.js"></script>
+<script src="static/public/ui/do.js"></script>
+<script src="static/public/ui/config.js"></script>
 <script>
 Do.ready('form', function() {
 	$("#form").Validform({

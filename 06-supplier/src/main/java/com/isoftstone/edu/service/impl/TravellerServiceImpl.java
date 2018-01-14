@@ -6,16 +6,18 @@ import com.isoftstone.edu.entity.TravellerEntity;
 import com.isoftstone.edu.mapper.TravellerMapper;
 import com.isoftstone.edu.service.TravellerService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 import java.lang.Long;
 
-
+@Service
 public class TravellerServiceImpl implements TravellerService {
 
-    @Autowired private TravellerMapper travellerMapper;
+    @Autowired
+    private TravellerMapper travellerMapper;
 
     @Override
     public PageInfo<TravellerEntity> getTravellers(Integer pageNum, Integer pageSize, TravellerEntity travellerEntity) {

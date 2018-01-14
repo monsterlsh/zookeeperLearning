@@ -9,6 +9,14 @@
 	<url>http://maven.apache.org</url>
 
 
+
+
+
+
+	<!-- end -->
+
+
+
 	<properties>
 		<spring.version>4.1.6.RELEASE</spring.version>
 		<aspectj.version>1.6.11</aspectj.version>
@@ -144,6 +152,11 @@
 
 		<!-- 日志处理 -->
 		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.17</version>
+		</dependency>
+		<dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-api</artifactId>
 			<version>${slf4j.version}</version>
@@ -186,5 +199,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+
 	</build>
+
 </project>
