@@ -5,30 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7529f185-554c-4b36-9925-8b87145364a6" name="Default Changelist" comment="zookeeper test empty project">
-      <change afterPath="$PROJECT_DIR$/../logging-commons/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../logging-commons/.idea/logging-commons.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../logging-commons/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../logging-commons/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../logging-commons/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../logging-commons/logging-commons/src/com/itranswarp/circle/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/com/lsh/Exceptin/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/com/lsh/Exceptin/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/com/lsh/Thread/Circulate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/com/lsh/Thread/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/com/lsh/Thread/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/com/lsh/Thread/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/com/lsh/Thread/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/com/lsh/Thread/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/com/lsh/Thread/pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/com/lsh/pox/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/com/lsh/pox/DynamicProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/com/lsh/pox/IUserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/com/lsh/pox/ProxyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/com/lsh/pox/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../华为机试/华为机试.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lagou/zookeeper/CreateSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lagou/zookeeper/Get_child_change.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../06-supplier/.idea/artifacts/06_supplier_war.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../06-supplier/.idea/artifacts/06_supplier_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../06-supplier/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../06-supplier/.idea/dataSources.local.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../06-supplier/.idea/dataSources.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../06-supplier/.idea/dataSources/1af68b25-f252-4f96-91d7-f7e867c77841.xml" beforeDir="false" />
@@ -67,7 +50,6 @@
       <change beforePath="$PROJECT_DIR$/../06-supplier/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../06-supplier/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../06-supplier/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../06-supplier/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../06-supplier/06-supplier.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../06-supplier/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../06-supplier/src/main/java/com/isoftstone/edu/common/bind/converter/DateConverter.java" beforeDir="false" />
@@ -307,13 +289,15 @@
       <change beforePath="$PROJECT_DIR$/../06-supplier/target/tomcat/conf/logging.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../06-supplier/target/tomcat/conf/tomcat-users.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../06-supplier/target/tomcat/conf/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../06-supplier/target/tomcat/logs/access_log.2018-01-14" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../06-supplier/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/views/datatablesTraveller_jsp.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../06-supplier/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/views/datatablesTraveller_jsp.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../06-supplier/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/views/register_jsp.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../06-supplier/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/views/register_jsp.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../06-supplier/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../06-supplier/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zookeeper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zookeeper.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -462,7 +446,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609833698299</updated>
-      <workItem from="1609833699775" duration="4649000" />
+      <workItem from="1609833699775" duration="5079000" />
     </task>
     <task id="LOCAL-00001" summary="zookeeper test empty project">
       <created>1609834407420</created>
