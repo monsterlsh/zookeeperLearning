@@ -297,6 +297,7 @@
       <change beforePath="$PROJECT_DIR$/../06-supplier/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zookeeper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zookeeper.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -446,7 +447,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609833698299</updated>
-      <workItem from="1609833699775" duration="5079000" />
+      <workItem from="1609833699775" duration="5397000" />
     </task>
     <task id="LOCAL-00001" summary="zookeeper test empty project">
       <created>1609834407420</created>

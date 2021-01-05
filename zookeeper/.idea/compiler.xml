@@ -9,11 +9,8 @@
         <module name="zookeeper" />
       </profile>
     </annotationProcessing>
-<<<<<<< HEAD
     <bytecodeTargetLevel>
       <module name="zookeeper" target="11" />
     </bytecodeTargetLevel>
-=======
->>>>>>> testweb
   </component>
 </project>
